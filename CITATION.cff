@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below. Pre-alpha research code; no results yet."
+title: "TACO Loop"
+type: software
+authors:
+  - family-names: "Jefferson"
+    given-names: "Lawrence"
+    name-suffix: "II"
+license: Apache-2.0
+repository-code: "https://github.com/MenokoOG/TACO_loop"
+version: 0.0.0
