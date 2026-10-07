@@ -41,6 +41,6 @@ Code: Apache-2.0 (`LICENSE`). Documentation and prose: CC BY 4.0 (`docs/LICENSE-
 
 ## Author
 
-Lawrence Jefferson II (MenokoOG). The TACO Loop White Paper v1.0 credits Nicale Jefferson as co-author.
+Lawrence Jefferson II (MenokoOG).
 
 *LAHA — Love All Humans Always.*
